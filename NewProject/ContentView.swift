@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct ContentView: View {
+    var newVar = [1, 2, 3, 4, 5]
+    
     var body: some View {
         Text("Hello, world!")
             .padding()
