@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct NewProjectApp: App {
+    var newBranch = "newBranch"
     var newName = "new"
     var body: some Scene {
         WindowGroup {
